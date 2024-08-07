@@ -2,7 +2,6 @@
 **Español e Ingles**  
 
 [Canal oficial](https://www.youtube.com/channel/UCxcmqMBK5hklYj5ni80xDig)  
-[Comprar](https://es.fiverr.com/manuelperez418/bot-trading-p2p-binance?context_referrer=search_gigs&source=top-bar&ref_ctx_id=ffa15a6779524a469704c2f75b97ddec&pckg_id=1&pos=3&context_type=auto&funnel=ffa15a6779524a469704c2f75b97ddec&seller_online=true&imp_id=34cc6a2a-d83e-4b49-aa81-a9ceddc613ee)  
 [Contáctame vía whatsapp.](https://api.whatsapp.com/send?phone=584125304389&text=Estoy%20interesado%20en%20el%20Bot%20de%20Binance)  
 [Contáctame vía Telegram.](https://t.me/erCocoTrade)    
 
