@@ -11,10 +11,10 @@ Las características clave de P2P Bot BinancitoExchangeMate incluyen notificacio
 
 # Caracteristicas
 1. Seguimiento de precios según estrategias.
-2. Cuenta con 6 estrategias.
+2. Resumen de las transacciones por metodos de pagos
 3. Control de topes para evitar sobrecompras.
 4. Precio de mercado en tiempo real.
-5. Excluir usuarios para no competir con ellos.
+5. Excluir usuarios para no competir con ellos e Incluir para perseguir usuarios en especificos, puede controlar por moneda y tipo transaccion. (Compras y Ventas)
 6. Interfaz amigable y fácil de usar, solo para Windows.
 7. Notificaciones via telegram a las nuevas ordenes
 8. Control via telegram
@@ -22,6 +22,10 @@ Las características clave de P2P Bot BinancitoExchangeMate incluyen notificacio
 ## Solicita tu demo... Sin compromiso.
 
 ## Nota: Soy el único distribuidor de este aplicativo. No debes pagar nada al momento de la activación; el pago se realiza después de la activación.
-![image](https://github.com/user-attachments/assets/972ef3b1-14a0-4bc7-b638-6a2e1298c35e)
-![image](https://github.com/user-attachments/assets/5c513b45-7292-479b-ac85-2fdd148df3a7)
-![image](https://github.com/user-attachments/assets/b1449c64-8eb2-4e72-94ce-cceb4e6436bf)  
+![6a1271bf-67ca-4252-802a-c4af4f11e7d4 21-09-2024 1248](https://github.com/user-attachments/assets/ffd282ce-bedd-427c-8008-8195b6d376cb)
+![dc1416fe-25c5-4dd6-b0d3-f390d05d52be 21-09-2024 1249](https://github.com/user-attachments/assets/13db9204-8339-4bfd-be62-32d94f4eb932)
+![c83e4c4d-590e-4587-b275-7631d07ecd4f 21-09-2024 1250](https://github.com/user-attachments/assets/0f8f1576-8c1c-4ab1-b38c-94a39dccc3f8)
+![73b6a878-38ef-4b9a-b01a-a1370a7cea5c 21-09-2024 1251](https://github.com/user-attachments/assets/33005c11-c03d-4337-8dd8-c85896da047c)
+![a8985b3d-2ca9-4105-b082-2e33296f2cce 21-09-2024 1251](https://github.com/user-attachments/assets/29bf0d9c-33ec-4f96-836c-529231171ae3)
+![dde7004e-ecfd-45bd-a987-c3cda76149d4 21-09-2024 1251](https://github.com/user-attachments/assets/a65bc7fe-4ecb-430e-8f6c-22dcfbbe32af)
+![312fadd9-44dc-4407-b35a-c7d81fb93d3f 21-09-2024 1252](https://github.com/user-attachments/assets/ed772be5-ec0b-4d8a-9d17-2e7796bb6313)
